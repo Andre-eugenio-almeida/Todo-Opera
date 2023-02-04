@@ -33,6 +33,18 @@ button:hover {
 }
 
 
+button:hover > i {
+    color: #FFF;
+
+}
+
+button i {
+    color: #120f5e;
+    font-weight: bold;
+    pointer-events: none;
+}
+
+
 
 
 
